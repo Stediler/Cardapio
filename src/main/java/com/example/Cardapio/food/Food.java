@@ -6,8 +6,8 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
-@Table(name = "foods")
-@Entity(name = "foods")
+@Table(name = "food")
+@Entity(name = "food")
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor
